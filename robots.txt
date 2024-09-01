@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://britanniaagc.github.io/sitemap/sitemap.txt
